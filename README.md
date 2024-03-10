@@ -1,6 +1,10 @@
 # RT-NRVE: Real-time Noise Reduction and Voice Enhancement using Deep Learning
 ## by Hanlong Chen and Zhihong Shen
 ## 2020/5/13
+
+CHECK THE PRESENTATION AND DEMO HERE: https://www.youtube.com/watch?v=P_g5q2H7s7I
+or presentation.mp4
+
 RT-NRVE is a high-performance deep learning model for real-time noise reduction and voice enhancement. It can handle both stationary and non-stationary noise, and achieves superior denoising performance compared to advanced models like Wavenet.
 
 Model Architecture
